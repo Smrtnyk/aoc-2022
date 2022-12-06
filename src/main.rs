@@ -1,3 +1,7 @@
+mod day_one;
+
+use crate::day_one::day_one;
+
 fn main() {
-    println!("Hello, world!");
+    day_one();
 }
